@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body {
+  font-family: Raleway;
+}
+
+div.container {
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
+section.results {
+  background-color: rgba(193, 233, 240, 0.50);
+  padding-top: 2%;
+  padding-right: 10%;
+  padding-bottom: 7%;
+  padding-left: 7%;
+}
+
+ul {
+  list-style: none;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: lightslategray;
+}
+
+a:active {
+  color: lightslategray;
+}
+
+a:visited {
+  color: black;
+}
+
+.hidden {
+  display: none;
+}
