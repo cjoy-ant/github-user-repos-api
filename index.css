@@ -25,18 +25,7 @@ ul {
 
 a:link {
   color: black;
-}
-
-a:hover {
-  color: lightslategray;
-}
-
-a:active {
-  color: lightslategray;
-}
-
-a:visited {
-  color: black;
+  font-weight: bold;
 }
 
 .hidden {
